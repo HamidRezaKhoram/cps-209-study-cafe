@@ -23,46 +23,26 @@ public class BarGraph {
     }
 
     public void addBar(HorizontalBar bar) {
-        //-----------Start below here. To do: approximate lines of code = 1
         // Add the HorizontalBar object bar to the barGraph
 
-        //-----------------End here. Please do not remove this comment. Reminder: no changes outside the todo regions.
     }
 
-    // Print the horizontal bar graph
     void printGraph() {
-        //-----------Start below here. To do: approximate lines of code = 2
-        //
+        // Print the horizontal bar graph
 
-        //-----------------End here. Please do not remove this comment. Reminder: no changes outside the todo regions.
     }
 
-    // Sort the HorizontalBar objects in the barGraph by length (smallest to largest)
     void sortBarsByLength() {
-        //-----------Start below here. To do: approximate lines of code = 1
-        //
-
-        //-----------------End here. Please do not remove this comment. Reminder: no changes outside the todo regions.
+        // Sort the HorizontalBar objects in the barGraph by length (smallest to largest)
     }
 
     // Create a helper class LengthComparator that implements the Comparator interface
     // and compares two Horizontal Bar objects based on their length
-    //-----------Start below here. To do: approximate lines of code = 3
-    //
 
-    //-----------------End here. Please do not remove this comment. Reminder: no changes outside the todo regions.
-
-    // Sort the Horizontal Bar objects in the barGraph by date (i.e. month) (earliest to latest)
     void sortBarsByDate() {
-        //-----------Start below here. To do: approximate lines of code = 1
-        //
-
-        //-----------------End here. Please do not remove this comment. Reminder: no changes outside the todo regions.
+        // Sort the Horizontal Bar objects in the barGraph by date (i.e. month) (earliest to latest)
     }
     // Create a helper class DateComparator that implements the Comparator interface
     // and compares two Horizontal Bar objects based on their month
-    //-----------Start below here. To do: approximate lines of code = 3
-    //
 
-    //-----------------End here. Please do not remove this comment. Reminder: no changes outside the todo regions.
 }
